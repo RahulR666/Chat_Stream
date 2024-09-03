@@ -54,10 +54,6 @@ Chat Stream is a complete chat application developed using PHP with MySQL and Ja
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ## Contact
 
